@@ -7,11 +7,17 @@ Implementation of functions from a standard library
 
 ## Checking for value
 - ft_isalpha - checks for an alphabetic character; in the standard "C" locale, it is equivalent to (isupper(c) || islower(c)). In some locales, there may be additional characters for which isalpha()
+####
 - ft_isdigit - checks for a digit (0 through 9). 
-- ft_isalnum - checks for an alphanumeric character; it is equivalent to (isalpha(c) || isdigit(c)). 
+####
+- ft_isalnum - checks for an alphanumeric character; it is equivalent to (isalpha(c) || isdigit(c)).
+####
 - ft_isascii - checks whether c is a 7-bit unsigned char value that fits into the ASCII character set. 
+####
 - ft_isprint - checks for any printable character including space. 
+####
 - ft_toupper - checks for an uppercase letter. 
+####
 - ft_tolower - checks for a lower-case character. 
 
 ## Displaying
