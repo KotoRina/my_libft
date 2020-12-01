@@ -14,7 +14,7 @@ Implementation of functions from a standard library
 - ft_toupper
 - ft_tolower
 
-##
+## Displaying
 - ft_putchar_fd
 - ft_putstr_fd
 - ft_putendl_fd
